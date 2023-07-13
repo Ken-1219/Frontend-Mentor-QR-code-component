@@ -7,8 +7,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-using-css-flex-3vHJytb2Lu]
+- Live Site URL: [https://frontend-mentor-qr-code-component-ruby-eta.vercel.app/]
 
 
 ## My process
@@ -22,7 +22,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Author
-
 - Author - Mohit Maurya
 - Frontend Mentor - [@Ken_1219](https://www.frontendmentor.io/profile/Ken-1219)
 - Github - [Ken-1219](https://github.com/Ken-1219)
