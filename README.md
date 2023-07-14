@@ -23,8 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 - Author - Mohit Maurya
-- Frontend Mentor - [@Ken_1219](https://www.frontendmentor.io/profile/Ken-1219)
-- Github - [Ken-1219](https://github.com/Ken-1219)
+- Frontend Mentor - [@Ken-1219](https://www.frontendmentor.io/profile/Ken-1219)
 
 
 
